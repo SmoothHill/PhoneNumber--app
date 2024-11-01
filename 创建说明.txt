@@ -1,0 +1,4 @@
+1、 创建maven普通工程
+
+2、切换到java包下，执行生成客户端代码命令
+wsimport  -s . http://ws.webxml.com.cn/WebServices/MobileCodeWS.asmx?wsdl
